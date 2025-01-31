@@ -10,8 +10,6 @@
  
 # [分类](./category)
 
-# [友链](./firends)
-
 ![](https://file.ghriver.top/avatar.png)
 <footer>
     <p>Copyright &copy; WinterCat 2025</p>
