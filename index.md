@@ -1,6 +1,6 @@
 <link rel="icon" type="image/png" href="https://s2.loli.net/2025/01/30/K52xe81PLsrQH3V.png">
 
-[Home](./) [Article](./Article) [Tags](./tags) [Category](./category) [Friends](./friends) [About](./about)
+[Home](./) [Article](./article) [Tags](./tags) [Category](./category) [Friends](./friends) [About](./about)
 
 # [文章](./article)
 
@@ -10,20 +10,4 @@
 
 # [友链](./firends)
 
-<script src="https://giscus.app/client.js"
-        data-repo="awaidea/wintercat"
-        data-repo-id="R_kgDONxxQ5w"
-        data-category="Announcements"
-        data-category-id="DIC_kwDONxxQ584CmeH5"
-        data-mapping="url"
-        data-strict="1"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="noborder_light"
-        data-lang="zh-CN"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
 
