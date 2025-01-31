@@ -1,6 +1,6 @@
 <link rel="icon" type="image/png" href="https://s2.loli.net/2025/01/30/K52xe81PLsrQH3V.png">
 
-[Home](./) [Article](./article) [Tags](./tags) [Category](./category) [Friends](./friends) [About](./about)
+[Home](./) [Article](./article) [Tags](./tags) [Category](./category) [Friends](./friends)  [Abilities](./abilities) [About](./about)
 
 # [文章](./article)
 - [我回归啦!](./article/我回归啦!)
