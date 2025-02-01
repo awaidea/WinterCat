@@ -17,7 +17,7 @@ name:WinterCat's Blog
 link:https://blog.ghriver.top
 avatar:https://file.ghriver.top/avatar.png
 banner(If Need):https://file.ghriver.top/banner.png
-describe:	Sing life with life
+describe:Sing life with life
 ```
 ## 3.请贵站站长按以下格式留言
 ```
