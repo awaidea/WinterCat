@@ -18,15 +18,15 @@
   avatar:https://file.ghriver.top/avatar.png
   banner(If Need):https://file.ghriver.top/banner.png
   describe:	Sing life with life
-```
+
 ## 3.请贵站站长按以下格式留言
 ```
 - name:
   link:
   avatar:
   describe:
-```
+
 谢谢各位老师对我的认可
 
 # 留言
-<script src="https://file.ghriver.top/giscus.js" data-repo="awaidea/wintercat" data-repo-id="R_kgDONxxQ5w" data-category="Announcements" data-category-id="DIC_kwDONxxQ584CmeH5" data-mapping="url" data-strict="1" data-reactions-enabled="1" data-emit-metadata="1" data-input-position="top" data-theme="noborder_light" data-lang="zh-CN" data-loading="lazy" crossorigin="anonymous" async> </script>
+<script src="https://giscus.app/client.js" data-repo="awaidea/wintercat" data-repo-id="R_kgDONxxQ5w" data-category="Announcements" data-category-id="DIC_kwDONxxQ584CmeH5" data-mapping="url" data-strict="1" data-reactions-enabled="1" data-emit-metadata="1" data-input-position="top" data-theme="noborder_light" data-lang="zh-CN" data-loading="lazy" crossorigin="anonymous" async> </script>
