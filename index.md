@@ -15,7 +15,11 @@
 
 
 # [功能](./abilities)
-- [WinterCatCloud](https://file.ghriver.top)
+- [WinterCat's PhotoWall](https://photo.ghriver.top)
+- [NextChat](https://ai.ghriver.top)
+- [FireWork](https://firework.ghriver.top)
+- [ChatRoom](https://chat.ghriver.top)
+- [HomePage](https://ghriver.top)
 
 ![](https://file.ghriver.top/avatar.png)
 <footer>
