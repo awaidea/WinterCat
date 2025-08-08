@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="https://s2.loli.net/2025/01/30/K52xe81PLsrQH3V.png">
+<link rel="icon" type="image/png" href="https://file.catp.cc">
 
 [Home](./) [Article](./article) [Tags](./tags) [Category](./category) [Friends](./friends)  [Abilities](./abilities) [About](./about)
 
@@ -21,7 +21,7 @@
 - [ChatRoom](https://chat.ghriver.top)
 - [HomePage](https://ghriver.top)
 
-![](https://file.ghriver.top/avatar.png)
+![](https://file.catp.cc/avatar.png)
 <footer>
     <p>Copyright &copy; WinterCat 2025</p>
     <p>本站位于<a href="https://bgithub.xyz/awaidea/WinterCat" target="_blank">awaidea/WinterCat</a></p>
